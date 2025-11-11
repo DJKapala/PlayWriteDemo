@@ -1,4 +1,4 @@
-# SE333 - Assignment 5 - UI Testing
+# SE333 - Assignment 6 - UI Testing
 
 This repository contains UI tests for the Bookstore application.
 
